@@ -1,7 +1,7 @@
 
 ## 🤝 Collaboration
 
-This project is being built in collaboration with **[@Anirudh Nuti](https://www.linkedin.com/in/anirudhnuti/)** — a passionate data engineer and SQL expert. We’re combining our real-world experience to bring you the best prep material out there.
+This project is being built in collaboration with **[@Anirudh Nuti]([https://www.linkedin.com/in/anirudhnuti](https://www.linkedin.com/in/nvkanirudh/)/)** — a passionate data engineer and SQL expert. We’re combining our real-world experience to bring you the best prep material.
 
 ## 🔗 Follow the Series
 
